@@ -1,10 +1,10 @@
 # Kyber-PQC-Accelerator
 A hardware accelerator for the **Kyber** post-quantum cryptography (PQC) algorithm integrated with the **Microwatt open-source CPU core**, designed for secure key exchange in the era of quantum computing.
 
-## Project Proposal
+## DESCRIPTION
 This project focuses on implementing the **Kyber algorithm** as a **hardware accelerator** on the **Microwatt CPU**. Kyber is a quantum-resistant encryption scheme, part of the **post-quantum cryptography (PQC)** family, which provides secure key exchange against future quantum computer attacks.
 
-### Key Objectives
+### PROJECT OBJECTIVES
 - **Kyber Algorithm Implementation**: Build a hardware accelerator for **key generation**, **encryption**, and **decryption** operations of the Kyber algorithm.
 - **Integration with Microwatt**: Implement this accelerator as a part of the Microwatt CPU to enable efficient, quantum-safe key exchange in a low-power, area-efficient manner.
 - **Software Control**: Develop software drivers to interact with the hardware accelerator, providing control over cryptographic operations.
@@ -38,8 +38,4 @@ Kyber is a lattice-based **key encapsulation mechanism (KEM)** that is designed 
 | 4    | Integrate modules into the Microwatt CPU and begin key exchange testing |
 | 5    | Final testing and debugging                                             |
 | 6    | Finalize documentation, GitHub repo, and prepare submission             |
-
-
-## License:
-This project is licensed under the **MIT License**.
 
