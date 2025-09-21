@@ -27,13 +27,18 @@ Kyber is a lattice-based **key encapsulation mechanism (KEM)** that is designed 
    - **Testbenches** for hardware verification.
    - **Software Drivers** to interact with the hardware and perform full key exchange operations.
 
+
 ## Timeline
-1. **Week 1**: Understand the Kyber algorithm and begin setting up the development environment.
-2. **Week 2**: Implement the **polynomial arithmetic** module and test.
-3. **Week 3**: Develop the **key generation** and **encryption** modules.
-4. **Week 4**: Integrate modules into the Microwatt CPU and begin testing key exchange.
-5. **Week 5**: Final testing and debugging.
-6. **Week 6**: Finalize documentation, GitHub repo, and prepare submission.
+
+| Week | Tasks                                                                   |
+|------|-------------------------------------------------------------------------|
+| 1    | Understand the Kyber algorithm and set up the development environment   |
+| 2    | Implement the polynomial arithmetic module and test                     |
+| 3    | Develop the key generation and encryption modules                       |
+| 4    | Integrate modules into the Microwatt CPU and begin key exchange testing |
+| 5    | Final testing and debugging                                             |
+| 6    | Finalize documentation, GitHub repo, and prepare submission             |
+
 
 ## License:
 This project is licensed under the **MIT License**.
