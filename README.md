@@ -30,12 +30,9 @@ Kyber is a lattice-based **key encapsulation mechanism (KEM)** that is designed 
 
 ## TIMELINE OF THE PROJECT
 
-| Week | Tasks                                                                   |
-|------|-------------------------------------------------------------------------|
-| 1    | Understand the Kyber algorithm and set up the development environment   |
-| 2    | Implement the polynomial arithmetic module and test                     |
-| 3    | Develop the key generation and encryption modules                       |
-| 4    | Integrate modules into the Microwatt CPU and begin key exchange testing |
-| 5    | Final testing and debugging                                             |
-| 6    | Finalize documentation, GitHub repo, and prepare submission             |
-
+• Week 1 - Study Kyber and set up development environment  
+• Week 2 - Implement and test polynomial arithmetic module  
+• Week 3 - Build key generation and encryption modules  
+• Week 4 - Integrate with Microwatt and test key exchange  
+• Week 5 - Final testing and debugging  
+• Week 6 - Complete documentation and prepare submission  
