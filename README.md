@@ -11,7 +11,7 @@ This project focuses on implementing the **Kyber algorithm** as a **hardware acc
 - **Integration with Microwatt**: Implement this accelerator as a part of the Microwatt CPU to enable efficient, quantum-safe key exchange in a low-power, area-efficient manner.
 - **Software Control**: Develop software drivers to interact with the hardware accelerator, providing control over cryptographic operations.
 
-### WHY KYBER
+### MOTIVATION
 Kyber is a lattice-based **key encapsulation mechanism (KEM)** that is designed to be resistant to attacks from quantum computers. This makes it a strong candidate for securing communications in the post-quantum era. By implementing Kyber on Microwatt, I aim to provide a hardware-accelerated solution that is both **power-efficient** and **quantum-safe**, making it ideal for embedded systems and edge devices.
 
 ## IMPLEMENTATION 
