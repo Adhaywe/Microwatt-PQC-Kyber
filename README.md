@@ -1,4 +1,6 @@
-# Kyber-PQC-Accelerator
+# PROJECT PROPOSAL
+
+## Kyber-PQC-Accelerator
 A hardware accelerator for the **Kyber** post-quantum cryptography (PQC) algorithm integrated with the **Microwatt open-source CPU core**, designed for secure key exchange in the era of quantum computing.
 
 ## DESCRIPTION
